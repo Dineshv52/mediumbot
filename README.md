@@ -34,6 +34,7 @@ MediumBot is a Telegram bot that automatically fetches and posts Medium articles
    bot_token=YOUR_TELEGRAM_BOT_TOKEN
    ADMIN_CHANNEL=-100xxxxxxxxxx        # Chat ID of the private admin group
    LOGS_CHANNEL=-100yyyyyyyyyy         # Chat ID of the logs channel
+   CHECK_INTERVAL=3600                 # Interval between checks in seconds
    ```
 
 4. **Run the bot**:
